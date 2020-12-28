@@ -1,0 +1,3 @@
+#!C:\Users\Dell\PycharmProjects\PythonNumpy\venv\Scripts\python.exe -u
+from xonsh.main import main
+main()
