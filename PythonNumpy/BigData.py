@@ -11,11 +11,8 @@ import geopandas
 from pyspark.ml.regression import LinearRegression
 from pyspark.ml.feature import VectorAssembler
 
-# ######### Big Data Assignment ######### #
-# ######### Shivam Rajdendra Nirhali : 219203376 ######### #
-# ######### Abhishek Dave : 219203366 ######### #
-# ######### Dhaval Mansukhbhai Karkar : 219203375 ######### #
-# ######### Gayatri Tawada : 219203030  ######### #
+# ######### Big Data ######### #
+# ######### Shivam Rajdendra Nirhali ######### #
 
 # https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases
 
